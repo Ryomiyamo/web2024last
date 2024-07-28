@@ -1,2 +1,2 @@
 alert('Hello,Ryouhei');
-alert('犬の紹介');
+alert('船水颯斗選手紹介');
